@@ -48,7 +48,7 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
+$db['default']['hostname'] = 'db.aanassociates.com';
 $db['default']['username'] = 'aanassoc';
 $db['default']['password'] = 'LUQK-HH!';
 $db['default']['database'] = 'aan_cvdb';
