@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://cvdatabase.aanassociates.com/';
+$config['base_url']	= 'http://cvdb.aanassociates.com/';
 
 /*
 |--------------------------------------------------------------------------

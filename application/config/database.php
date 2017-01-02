@@ -49,9 +49,9 @@ $active_group = 'default';
 $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'aanassoc_cv';
-$db['default']['password'] = '}vmUQ&R$%_TR';
-$db['default']['database'] = 'aanassoc_cv';
+$db['default']['username'] = 'aanassoc';
+$db['default']['password'] = 'LUQK-HH!';
+$db['default']['database'] = 'aan_cvdb';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
 $db['default']['pconnect'] = TRUE;
